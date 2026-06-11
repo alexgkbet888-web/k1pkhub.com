@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"k1 game agent","/","homepage",1
+"agent","k1 game agent","/guides/agent-program-guide/","agent",1
+"referral","k1 game referral code","/guides/referral-code-guide/","referral",1
+"referral","k1 game invitation code","/guides/invitation-code/","referral",1
+"bonus","k1 game bonus","/guides/bonus-terms-explained/","bonus",1
+"bonus","k1 game turnover condition","/guides/turnover-condition/","bonus",2
+"bonus","k1 game cashback","/guides/cashback-terms/","bonus",2
+"comparison","k1 game agent vs referral","/guides/agent-vs-referral/","comparison",2
+"risk","k1 game commission","/guides/commission-claims/","risk",2
+"freshness","k1 game promo","/guides/promo-tracker/","freshness",3
+"risk","k1 game bonus red flags","/guides/bonus-red-flags/","risk",3
+"faq","k1 game agent faq","/guides/agent-faq/","faq",3
+"freshness","k1 game agent notes","/guides/weekly-agent-notes/","freshness",3
+hub,"Agent Program","/agent-program/","hub",1
+hub,"Referral Codes","/referral-codes/","hub",2
+hub,"Bonus Terms","/bonus-terms/","hub",3
+hub,"Promo Tracker","/promo-tracker/","hub",4
