@@ -5,7 +5,7 @@ Primary keyword: k1 game agent
 ## Launch tasks
 
 - Submit /sitemap.xml to Google Search Console.
-- Add GA4 and Search Console verification after final domain is attached.
+- GA4 installed on all HTML pages: G-6D4TRHCF9L. Add Search Console verification after domain property is created.
 - Request indexing for homepage, four hub pages, /guides/, and the first six guide pages.
 - Add original screenshots before publication.
 
