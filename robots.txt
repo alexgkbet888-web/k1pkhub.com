@@ -1,4 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://k1pkhub.com/sitemap.xml
+Sitemap: http://k1pkhub.com/sitemap.xml
+
