@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>K1 Agent Notes Feed</title>
     <link>http://k1pkhub.com/</link>
     <description>Recent guide updates for K1 Agent Notes.</description>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <item>
+      <title>K1 Game Referral Code Share Checklist Before You Send It</title>
+      <link>http://k1pkhub.com/guides/referral-code-share-checklist/</link>
+      <guid>http://k1pkhub.com/guides/referral-code-share-checklist/</guid>
+      <pubDate>Thu, 18 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Agent and referral guide for users who want to share a K1 Game referral code carefully without confusing bonus, commission and withdrawal expectations.</description>
+    </item>
     <item>
       <title>K1 Game Referral Commission Balance Meaning: Agent Notes</title>
       <link>http://k1pkhub.com/guides/referral-commission-balance-meaning/</link>
@@ -173,5 +180,7 @@
       <pubDate>Wed, 17 Jun 2026 14:10:00 GMT</pubDate>
       <description>Independent agent guide for k1 game agent faq, with steps, checks, FAQ, and related pages.</description>
     </item>
-  </channel>
+  <item><title>Agents K1 Pakistan Checklist</title><link>http://k1pkhub.com/guides/agents-k1-pakistan-checklist/</link><guid>http://k1pkhub.com/guides/agents-k1-pakistan-checklist/</guid><pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate><description>New K1 Agent Notes page for agents k1, referral code checks and bonus terms.</description></item>
+</channel>
 </rss>
+
