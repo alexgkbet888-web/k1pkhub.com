@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Agent Notes",
+    "short_name":  "K1 Agent Notes",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "K1 Game bonus code and referral guide explaining bonus terms, agent notes, registration flow, eligibility checks and Pakistan user FAQ without hype.",
+    "icons":  [
+
+              ]
+}
