@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1pkhub.com",
+  "brand": "K1 PK Hub",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1pkhub.com/",
+  "siteType": "authority",
+  "positioning": "K1 agent, referral, invitation and bonus-code notes site",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "agents K1",
+    "agent K1",
+    "K1 game bonus code"
+  ],
+  "secondaryKeywords": [
+    "K1 agent code",
+    "K1 referral code",
+    "K1 invitation code",
+    "agents K1 Pakistan"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1pkhub.com/sitemap.xml",
+    "robotsUrl": "https://k1pkhub.com/robots.txt",
+    "feedUrl": "https://k1pkhub.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1pkhub.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
